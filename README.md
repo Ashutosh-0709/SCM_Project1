@@ -1,6 +1,6 @@
 ## Premise
 
-As an international student, managing groceries and cooking has always been a challenging and time-consuming task. The alternatives, such as fast food and frozen meals, often compromise on health and do not provide the comfort of home-cooked, culturally familiar dishes. Recognizing this gap, I conceived a service that delivers meals catered specifically to the cultural and dietary preferences of international students.
+In this project, I have leveraged R (RStudio) and linear programming techniques to optimize a supply chain network involving 2 factories, 4 distribution centers, and 6 customers. The objective was to minimize transportation costs while ensuring that supply chain constraints, such as factory capacities, distribution center throughput limits and customer demands, were met efficiently. Through this optimization, the project aimed to enhance overall supply chain performance and improve the alignment between supply and demand.
 
 ---
 
